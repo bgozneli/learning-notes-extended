@@ -199,7 +199,8 @@ _Agile_ working patterns provide a framework for adapting to change.
 
 ## Data models and query language
 
-Most applications are built by layering one data model on top of another. Each layer hides the complexity of the layers below by providing a clean data model. These abstractions allow different groups of people to work effectively.
+Most applications are built by layering one data model on top of another. Each layer hides the complexity of the layers below by providing a clean data model. These abstractions allow different groups of people to work effectively. \
+**Example**: Real world (people, applications, processes) -> documents (JSON, XML), relational DBs, Graph DBs -> Bytes in memory, disk space or network -> Hardware level (electric currents)
 
 ### Relational model vs document model
 
